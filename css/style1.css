@@ -1,0 +1,42 @@
+div,li
+{
+	font-family: sans-serif;
+
+	color:orange;
+	background position: 50px;
+	
+	
+}
+h1
+{
+	font-family:Arial;
+	
+	color: blue;
+	font-size: 20px;
+
+}
+p
+{
+	font-family:Helvica;
+
+	color: blue;
+	font-size: 20px;
+
+}
+
+blockquote {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 40px;
+  margin-right: 40px;
+  border-style: solid;
+  border-width: medium;
+  
+}
+body
+{
+	background:  pink;
+	background-position: center;
+	margin-left: 0;
+}
