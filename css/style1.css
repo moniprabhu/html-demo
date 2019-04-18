@@ -1,24 +1,22 @@
 div,li
 {
 	font-family: sans-serif;
-
 	color:orange;
-	background position: 50px;
+
 	
 	
 }
 h1
 {
 	font-family:Arial;
-	
-	color: blue;
-	font-size: 20px;
+	color: red;
+	font-size: 30px;
+
 
 }
 p
 {
 	font-family:Helvica;
-
 	color: blue;
 	font-size: 20px;
 
@@ -32,11 +30,15 @@ blockquote {
   margin-right: 40px;
   border-style: solid;
   border-width: medium;
-  
+  text-align: center;
+  margin-left:0;
+  border-color:black;
+  color:blue;
 }
 body
 {
-	background:  pink;
-	background-position: center;
-	margin-left: 0;
+	background-color:#e3e3e3;
+	width: 600px;
+    margin :auto;
+	
 }
