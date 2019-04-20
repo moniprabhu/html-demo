@@ -1,0 +1,25 @@
+
+.navi li{
+	display: inline;
+	margin-left: 0 ;
+	margin-right: 30px;
+}
+header{
+	height: 40px;
+	background-color: #FFAB91;
+	font-family: 'Abril Fatface', cursive;
+	font-size:30px;
+}
+.hero , .two {
+	background-color : #FFCDD2;
+}
+
+.two {
+	margin : 30px 0;
+}
+.foot{
+	background-color: #FF7043
+}
+.head h1{
+	font-size: 20px;
+}
