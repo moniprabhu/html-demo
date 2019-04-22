@@ -8,10 +8,9 @@
 .navi li{
 	display: inline;
 	margin-left:0; 
-	text-decoration: none:;
+	text-decoration: none;
 	margin-right :30px;
-	font-color: #CB4335  ;
-	font-size: 20px;
+	font-size: 17px;
 	float: left;
 	
 }
@@ -39,4 +38,8 @@ header{
 .head h1{
 	font-size: 30px;
 
+}
+.foot h3{
+	font-size:20px;
+	color:coral;
 }
